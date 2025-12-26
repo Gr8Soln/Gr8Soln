@@ -1,15 +1,15 @@
 # 💫 About Me:
 
-✨ Hey, My name is <strong>Emmanuel Ayinde</strong>, you can call me <strong> <i>Engr SoluTion </i></strong> <br>
+✨ Hey, My name is <strong>Emmanuel Ayinde</strong>, you can call me <strong> <i>Great SoluTion (Gr8Soln)</i></strong> <br>
 🔭 I’m currently working on building SoluTion Tech Hub<br>👯 I’m looking to collaborate on any backend and mobile app project<br>🤝 I’m looking for help understanding Software Designs Patterns and DSA<br>🌱 I’m currently learning Golang & DSA<br>💬 Ask me about Backend, Mobile and Frontend<br>⚡ Fun fact
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuelayinde) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_emmanuelayinde) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emmanuelayinde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gr8soln) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gr8soln) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gr8soln)
 
 ## 📝 Blog & Articles:
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@emmanuelayinde) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/emmanuelayinde) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@emmanuelayinde)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gr8soln) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/gr8soln) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@gr8soln)
 
 # 💻 Tech Stack:
 
@@ -31,50 +31,12 @@ Below are the list of technologies I use foru day to day project.
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326e5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 
-<!-- START OF PROJECTS SESSION -->
-
-<!--
-## 🏆 My Projects
-
-<details>
-
-<summary>
-  As a software engineer with over 4 years of industrial experience, I have worked over several project ranging from Full Stack Application to Scrapper to Chrome Extension to Bot & Automation system using JavaScript/TypeScript, Python and Golang. Below are the project I took liberty to make public.
-</summary>
-
-| **Project Name**        | **Description**                                                                                                                                                                                         | **Technologies Used**                                                                                                                                                                                                                                                                                                             |                                **Source Code**                                |
-| :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------: |
-| **NeoChat Application** | `Neochat Application` is a fullstack chat application with both individual and group chat, voice and video call and user story features. It implement E2E Encryption for both chat and video/voice call | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | [Complete Source Code](https://github.com/emmanuelayinde/neochat-application) |
-
-</details>
--->
-<!-- END OF PROJECTS SESSION -->
-
-<!-- START OF BLOGS SESSION -->
-
-<!--
-## 🏆 My Blogs
-
-<details>
-
-<summary>
-I write blog on things I have learnt in SWE. You can check them out in the table below.
-</summary>
-
-| **Blog Title**               |                   **Platform**                    |                                                                                                       **Blog Url**                                                                                                       |
-| :--------------------------- | :-----------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **API Achictectural Styles** | `Dev Community`<br> `Dev Community` <br> `Medium` | [API Achictectural Styles I ](https://dev.to/emmanuelayinde/api) <br>[API Achictectural Styles - Part II](https://dev.to/emmanuelayinde/api) <br> [API Achictectural Styles - Part 1](https://dev.to/emmanuelayinde/api) |
-
-</details>
-
--->
-<!-- END OF BLOGS SESSION -->
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=emmanuelayinde&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=emmanuelayinde&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelayinde&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=gr8soln&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gr8soln&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gr8soln&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 
@@ -82,11 +44,8 @@ I write blog on things I have learnt in SWE. You can check them out in the table
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=emmanuelayinde&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=gr8soln&limit=10&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 
