@@ -1,4 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Emmanuel%20Ayinde&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?color=gradient&customColorList=6,11,20&height=80&section=header&text=(Gr8Soln)&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gr8soln&style=for-the-badge&color=6366F1&labelColor=0D1117&label=PROFILE+VIEWS"/>
