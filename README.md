@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Lead+Software+%26+AI+Engineer;Backend+Engineer+%7C+Go+%26+Python+%26+TypeScript;Technical+Writer+%7C+dev.to+%7C+Medium+%7C+Hashnode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Lead+Software+%26+AI+Engineer;Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+FastAPI;AI+Agents+%C2%B7+RAG+%C2%B7+LangChain+%C2%B7+LLMs;Technical+Writer+%7C+dev.to+%7C+Medium+%7C+Hashnode" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,48 +23,93 @@
 
 ```go
 var gr8soln = map[string]interface{}{
-    "name":       "Emmanuel Ayinde (Great SoluTion)",
-    "handle":     "@gr8soln",
-    "location":   "Nigeria 🇳🇬",
-    "building":   "SoluTion Tech Hub",
-    "languages":  []string{"Go", "Python", "TypeScript", "JavaScript"},
-    "interests":  []string{"Backend Engineering", "AI Systems", "DSA", "Technical Writing"},
-    "learning":   []string{"Golang (deep dive)", "Design Patterns", "DSA"},
-    "writing":    []string{"dev.to", "Medium", "Hashnode"},
-    "funFact":    "I turn complex backend problems into clean, scalable solutions ⚡",
+    "name":        "Emmanuel Ayinde (Great SoluTion)",
+    "handle":      "@gr8soln",
+    "location":    "Lagos, Nigeria 🇳🇬",
+    "role":        "Lead Software & AI Engineer",
+    "experience":  "5+ years · UK · US · UAE · Remote",
+    "languages":   []string{"Go", "Python", "TypeScript", "JavaScript"},
+    "ai_stack":    []string{"LangChain", "LangGraph", "LLMs", "RAG", "Vector DBs"},
+    "interests":   []string{"AI Agents", "Backend Systems", "Fintech", "Technical Writing"},
+    "writing":     []string{"dev.to/gr8soln", "medium.com/@gr8soln", "hashnode.com/@gr8soln"},
+    "funFact":     "I turn complex backend problems into clean, scalable solutions ⚡",
 }
 ```
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="100%" colspan="2">
 
-<h3 align="center">📊 Trakto — Self-hosted Website Analytics</h3>
+<h3 align="center">🎓 NovaAcademy — AI-Powered Study Platform</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-FF4747?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-<p align="center"><strong>A privacy-focused, self-hosted analytics platform — think Plausible, but yours.</strong> Built with Go 1.22 + Gin, PostgreSQL via GORM, real-time event streaming via Server-Sent Events, and a React + Recharts dashboard. Features site-level API key authentication and a lightweight vanilla JS tracker you embed on any site.</p>
-<p align="center"><em>Built with Go · Gin · PostgreSQL · GORM · React · Vite · Recharts · Tailwind CSS · SSE</em></p>
+<p align="center"><strong>Upload documents, generate AI-powered quizzes & flashcards, track progress, challenge friends, and climb leaderboards — all driven by LLMs and vector search.</strong></p>
+<p align="center">Built with FastAPI + async PostgreSQL (SQLAlchemy 2.0) + Redis + Qdrant vector search + OpenAI (GPT-4.1 + embeddings). Clean architecture with domain → adapters → infrastructure layers. Google OAuth, Celery background jobs, Alembic migrations, full Docker Compose stack.</p>
+<p align="center">
+  <a href="https://novaacademy-sigma.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-novaacademy--sigma.vercel.app-6366F1?style=for-the-badge"/></a>
+  <a href="https://github.com/Gr8Soln/NovaAcademy"><img src="https://img.shields.io/badge/Source_Code-GitHub-0D1117?style=for-the-badge&logo=github"/></a>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<h3 align="center">💰 Ajo & Akawo — Fintech Savings Platform</h3>
+<h3 align="center">🔍 DeepResearch — AI Research Engine</h3>
 <p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
-<p>Fintech platform integrating <strong>Kweeva</strong> — powering rotating savings groups (Ajo) and fixed savings packages (Akawo) with role-based accounts, relational schemas, and JSONB meta columns for flexible API sync.</p>
+<p>An AI-powered deep research engine built with LangChain, FastAPI, and PostgreSQL. Performs multi-step reasoning and synthesis across multiple sources — going beyond simple search to deliver structured, cited research outputs.</p>
+<p align="center">
+  <a href="https://github.com/Gr8Soln/DeepResearch"><img src="https://img.shields.io/badge/Source_Code-GitHub-0D1117?style=for-the-badge&logo=github"/></a>
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">📊 Beacon — Self-hosted Analytics</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+<p>Privacy-focused, self-hosted website analytics — think Plausible, but yours. Go 1.22 + Gin backend, PostgreSQL via GORM, real-time event streaming via SSE, React + Recharts dashboard, and a lightweight vanilla JS tracker you embed on any site.</p>
+<p align="center">
+  <a href="https://github.com/Gr8Soln/Beacon"><img src="https://img.shields.io/badge/Source_Code-GitHub-0D1117?style=for-the-badge&logo=github"/></a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">🌐 SPTransApp — AI Translation & OCR</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+<p>AI-powered mobile + web app for real-time text extraction from images (OCR), translation across languages, and conversational text interaction — with a production-grade FastAPI backend handling real-time processing at scale.</p>
+<p align="center">
+  <a href="https://github.com/Gr8Soln/SPTransApp"><img src="https://img.shields.io/badge/Source_Code-GitHub-0D1117?style=for-the-badge&logo=github"/></a>
+</p>
 
 </td>
 <td width="50%">
@@ -73,8 +118,12 @@ var gr8soln = map[string]interface{}{
 <p align="center">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </p>
-<p>I write in-depth articles on backend engineering, Go internals, SQL, and Git. Recent work includes <strong>"The Two Runes of Go: & and *"</strong> — breaking down pointers and addresses for developers.</p>
+<p>I write in-depth articles on backend engineering, Go internals, AI systems, SQL, and system design. Recent work: <strong>"Understanding Pointers in Go"</strong> and a DSA series with 12 articles and counting.</p>
+<p align="center">
+  <a href="https://dev.to/gr8soln"><img src="https://img.shields.io/badge/Read_Articles-dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+</p>
 
 </td>
 </tr>
@@ -89,6 +138,21 @@ var gr8soln = map[string]interface{}{
 <br/>
 <p>
 <img src="https://skillicons.dev/icons?i=go,python,ts,js,html&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>AI & Machine Learning</b></summary>
+<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-FF4747?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 </details>
 
@@ -134,6 +198,8 @@ var gr8soln = map[string]interface{}{
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gr8soln&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
 
+---
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
@@ -157,6 +223,9 @@ var gr8soln = map[string]interface{}{
 </a>
 <a href="https://hashnode.com/@gr8soln">
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+</a>
+<a href="https://gr8soln.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://buymeacoffee.com/emmanuelayinde">
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
