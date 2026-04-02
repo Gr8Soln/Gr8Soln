@@ -58,7 +58,7 @@ var gr8soln = map[string]interface{}{
 <p align="center"><strong>Upload documents, generate AI-powered quizzes & flashcards, track progress, challenge friends, and climb leaderboards — all driven by LLMs and vector search.</strong></p>
 <p align="center">Built with FastAPI + async PostgreSQL (SQLAlchemy 2.0) + Redis + Qdrant vector search + OpenAI (GPT-4.1 + embeddings). Clean architecture with domain → adapters → infrastructure layers. Google OAuth, Celery background jobs, Alembic migrations, full Docker Compose stack.</p>
 <p align="center">
-  <a href="https://novaacademy-sigma.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-novaacademy--sigma.vercel.app-6366F1?style=for-the-badge"/></a>
+  <a href="https://novaacademy-ui.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-novaacademy--ui.vercel.app-6366F1?style=for-the-badge"/></a>
   <a href="https://github.com/Gr8Soln/NovaAcademy"><img src="https://img.shields.io/badge/Source_Code-GitHub-0D1117?style=for-the-badge&logo=github"/></a>
 </p>
 
