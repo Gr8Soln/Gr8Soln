@@ -189,9 +189,10 @@ var gr8soln = map[string]interface{}{
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gr8soln&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gr8soln&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gr8soln&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gr8soln&theme=tokyonight" width="49.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gr8soln&theme=tokyonight" width="49.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gr8soln&theme=tokyonight" width="49.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gr8soln&theme=tokyonight&utcOffset=8" width="49.5%"/>
 </p>
 
 <p align="center">
@@ -200,13 +201,11 @@ var gr8soln = map[string]interface{}{
 
 ---
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
----
-
 ### 🤝 Let's Connect
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
 <p align="center">
 <a href="https://linkedin.com/in/gr8soln">
