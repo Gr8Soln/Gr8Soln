@@ -7,14 +7,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/gr8soln"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/gr8soln"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <!-- <a href="https://x.com/gr8soln"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a> -->
   <a href="https://medium.com/@gr8soln"><img src="https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://dev.to/gr8soln"><img src="https://img.shields.io/badge/dev.to-Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-  <a href="https://hashnode.com/@gr8soln"><img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Lead+Software+%26+AI+Engineer;Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+FastAPI;AI+Agents+%C2%B7+RAG+%C2%B7+LangChain+%C2%B7+LLMs;Technical+Writer+%7C+dev.to+%7C+Medium+%7C+Hashnode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Lead+Software+%26+AI+Engineer;Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+FastAPI;AI+Agents+%C2%B7+RAG+%C2%B7+LangChain+%C2%B7+LLMs;Technical+Writer+%7C+dev.to+%7C+Medium" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,16 +22,15 @@
 
 ```go
 var gr8soln = map[string]interface{}{
-    "name":        "Emmanuel Ayinde (Great SoluTion)",
-    "handle":      "@gr8soln",
-    "location":    "Lagos, Nigeria 🇳🇬",
+    "name":        "Emmanuel Ayinde",
+    "handle":      "@gr8soln (Great SoluTion)",
     "role":        "Lead Software & AI Engineer",
     "experience":  "5+ years · UK · US · UAE · Remote",
+    "writing":     []string{"dev.to/gr8soln", "medium.com/@gr8soln"},
     "languages":   []string{"Go", "Python", "TypeScript", "JavaScript"},
     "ai_stack":    []string{"LangChain", "LangGraph", "LLMs", "RAG", "Vector DBs"},
-    "interests":   []string{"AI Agents", "Backend Systems", "Fintech", "Technical Writing"},
-    "writing":     []string{"dev.to/gr8soln", "medium.com/@gr8soln", "hashnode.com/@gr8soln"},
     "funFact":     "I turn complex backend problems into clean, scalable solutions ⚡",
+    "interests":   []string{"AI Agents", "Backend Systems", "Fintech", "Technical Writing"},
 }
 ```
 
@@ -118,7 +116,6 @@ var gr8soln = map[string]interface{}{
 <p align="center">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </p>
 <p>I write in-depth articles on backend engineering, Go internals, AI systems, SQL, and system design. Recent work: <strong>"Understanding Pointers in Go"</strong> and a DSA series with 12 articles and counting.</p>
 <p align="center">
@@ -211,17 +208,14 @@ var gr8soln = map[string]interface{}{
 <a href="https://linkedin.com/in/gr8soln">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://x.com/gr8soln">
+<!-- <a href="https://x.com/gr8soln">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+</a> -->
 <a href="https://medium.com/@gr8soln">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 <a href="https://dev.to/gr8soln">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</a>
-<a href="https://hashnode.com/@gr8soln">
-<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
 <a href="https://gr8soln.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
