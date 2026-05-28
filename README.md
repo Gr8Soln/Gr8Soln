@@ -180,11 +180,6 @@ var gr8soln = map[string]interface{}{
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gr8soln&theme=tokyonight" width="100%"/>
-</p>
-
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gr8soln&theme=tokyonight" width="49.5%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gr8soln&theme=tokyonight" width="49.5%"/>
