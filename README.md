@@ -116,7 +116,7 @@ var gr8soln = map[string]interface{}{
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </p>
-<p>I write in-depth articles on backend engineering, Go internals, AI systems, SQL, and system design. Recent work: <strong>"Understanding Pointers in Go"</strong> and a DSA series with 12 articles and counting.</p>
+<p>I write in-depth articles on backend engineering, AI systems, Go internals, SQL, system design, data structure and algorithms. Recent work: <strong>"Understanding Pointers in Go"</strong> and a DSA series with over 15 articles and counting.</p>
 <p align="center">
   <a href="https://dev.to/gr8soln"><img src="https://img.shields.io/badge/Read_Articles-dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
