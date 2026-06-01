@@ -23,12 +23,12 @@
 var gr8soln = map[string]interface{}{
     "name":        "Emmanuel Ayinde",
     "handle":      "@gr8soln (Great SoluTion)",
-    "role":        "Lead Software & AI Engineer",
-    "experience":  "5+ years · UK · US · UAE · Remote",
+    "role":        "Lead/Senior Software & AI Engineer",
+    "experience":  "5+ years · Remote",
     "writing":     []string{"dev.to/gr8soln", "medium.com/@gr8soln"},
     "languages":   []string{"Go", "Python", "TypeScript", "JavaScript"},
     "ai_stack":    []string{"LangChain", "LangGraph", "LLMs", "RAG", "Vector DBs"},
-    "funFact":     "I turn complex backend problems into clean, scalable solutions ⚡",
+    "funFact":     "I turn complex backend and ai problems into clean, scalable solutions ⚡",
     "interests":   []string{"AI Agents", "Backend Systems", "Fintech", "Technical Writing"},
 }
 ```
