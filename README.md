@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/gr8soln"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <!-- <a href="https://x.com/gr8soln"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a> -->
   <a href="https://medium.com/@gr8soln"><img src="https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://dev.to/gr8soln"><img src="https://img.shields.io/badge/dev.to-Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
